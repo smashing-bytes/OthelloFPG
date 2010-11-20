@@ -1,7 +1,7 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'boardwidget.h'
 **
-** Created: Sat Nov 20 05:09:33 2010
+** Created: Sat Nov 20 05:50:07 2010
 **      by: The Qt Meta Object Compiler version 62 (Qt 4.6.2)
 **
 ** WARNING! All changes made in this file will be lost!
