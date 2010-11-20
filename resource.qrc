@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about-icon.png</file>
+        <file>images/new-icon.png</file>
+        <file>images/open-icon.png</file>
+        <file>images/save-icon.png</file>
+        <file>images/history-icon.png</file>
+        <file>images/options-icon.png</file>
+        <file>images/help-icon.png</file>
+        <file>images/exit-icon.png</file>
+        <file>images/green.png</file>
+        <file>images/black.png</file>
+        <file>images/white.png</file>
+        <file>images/validgreen.png</file>
+        <file>images/aek.png</file>
+        <file>images/archlinux.png</file>
+        <file>images/c.png</file>
+        <file>images/debian.png</file>
+        <file>images/java.png</file>
+        <file>images/mac.png</file>
+        <file>images/osfp.png</file>
+        <file>images/pao.png</file>
+        <file>images/qt.png</file>
+        <file>images/windows.png</file>
+    </qresource>
+</RCC>
