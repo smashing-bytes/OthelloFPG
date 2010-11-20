@@ -18,7 +18,6 @@ BoardWidget::BoardWidget(Player *player1, Player *player2, QWidget *parent)
 {
     short i,j;
     unsigned int xloc = 0, yloc = 0;
-    bool alt = true;
     p1 = player1;
     p2 = player2;
     othello = new Othello(player1, player2, this,true);

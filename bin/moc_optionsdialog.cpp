@@ -1,13 +1,13 @@
 /****************************************************************************
 ** Meta object code from reading C++ file 'optionsdialog.h'
 **
-** Created: Sat Nov 20 05:05:46 2010
+** Created: Sat Nov 20 05:09:35 2010
 **      by: The Qt Meta Object Compiler version 62 (Qt 4.6.2)
 **
 ** WARNING! All changes made in this file will be lost!
 *****************************************************************************/
 
-#include "optionsdialog.h"
+#include "../optionsdialog.h"
 #if !defined(Q_MOC_OUTPUT_REVISION)
 #error "The header file 'optionsdialog.h' doesn't include <QObject>."
 #elif Q_MOC_OUTPUT_REVISION != 62

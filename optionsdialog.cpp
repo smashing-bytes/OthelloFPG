@@ -98,7 +98,7 @@ void OptionsDialog::saveChanges() {
     emit close();
 /*
 
-            /*#include <QPlastiqueStyle>
+            #include <QPlastiqueStyle>
             #include <QMotifStyle>
             #include <QCleanlooksStyle>
 

@@ -58,7 +58,10 @@
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
    <value key="QtVersionId" type="int">0</value>
    <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
    <value key="buildConfiguration" type="int">2</value>
+   <value key="buildDirectory" type="QString"></value>
+   <value key="useShadowBuild" type="bool">false</value>
   </valuemap>
  </data>
  <data>
@@ -66,6 +69,7 @@
   <valuemap type="QVariantMap">
    <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
    <value key="QtVersionId" type="int">0</value>
+   <value key="addQDumper" type=""></value>
    <value key="buildConfiguration" type="int">0</value>
   </valuemap>
  </data>
@@ -112,7 +116,7 @@
     <value type="QString">XDG_SESSION_COOKIE=9530a1c85928fa9434529ad84cc3729f-1290173538.540354-336551050</value>
    </valuelist>
    <valuelist key="abstractProcess.arguments" type="QVariantList">
-    <value type="QString">/home/netharis/Othello/Othello.pro</value>
+    <value type="QString">/home/netharis/OthelloFPG/Othello.pro</value>
     <value type="QString">-spec</value>
     <value type="QString">linux-g++</value>
     <value type="QString">-r</value>
@@ -120,7 +124,7 @@
    </valuelist>
    <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
    <value key="abstractProcess.enabled" type="bool">false</value>
-   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/Othello</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/OthelloFPG</value>
   </valuemap>
  </data>
  <data>
@@ -171,7 +175,7 @@
    </valuelist>
    <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
    <value key="abstractProcess.enabled" type="bool">true</value>
-   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/Othello</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/OthelloFPG</value>
   </valuemap>
  </data>
  <data>
@@ -223,7 +227,7 @@
    </valuelist>
    <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
    <value key="abstractProcess.enabled" type="bool">true</value>
-   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/Othello</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/netharis/OthelloFPG</value>
    <value key="cleanConfig" type="bool">true</value>
    <valuelist key="makeargs" type="QVariantList">
     <value type="QString">clean</value>
